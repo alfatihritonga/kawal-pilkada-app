@@ -33,8 +33,8 @@ Kawal Pilkada adalah aplikasi berbasis web yang dirancang untuk meningkatkan tra
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/username/kawal-pilkada.git
-   cd kawal-pilkada
+   git clone https://github.com/alfatihritonga/kawal-pilkada-app.git
+   cd kawal-pilkada-app
    ```
 
 2. **Instal Dependensi Backend:**
